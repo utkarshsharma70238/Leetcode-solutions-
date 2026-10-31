@@ -6,6 +6,7 @@ My leetcode solution in java
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -48,4 +49,12 @@ My leetcode solution in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 <!---LeetCode Topics End-->
