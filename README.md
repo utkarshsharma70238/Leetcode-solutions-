@@ -8,6 +8,7 @@ My leetcode solution in java
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -35,6 +36,7 @@ My leetcode solution in java
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ My leetcode solution in java
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -98,4 +101,16 @@ My leetcode solution in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
