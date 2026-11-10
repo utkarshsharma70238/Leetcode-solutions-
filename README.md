@@ -15,6 +15,7 @@ My leetcode solution in java
 | [2747-count-zero-request-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## String
@@ -67,6 +68,7 @@ My leetcode solution in java
 | ------- | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
