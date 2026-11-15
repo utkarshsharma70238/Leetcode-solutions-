@@ -10,6 +10,7 @@ My leetcode solution in java
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -70,6 +71,7 @@ My leetcode solution in java
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -83,6 +85,7 @@ My leetcode solution in java
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -155,5 +158,6 @@ My leetcode solution in java
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
