@@ -29,6 +29,7 @@ My leetcode solution in java
 | [0844-backspace-string-compare](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0844-backspace-string-compare/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Divide and Conquer
