@@ -18,6 +18,7 @@ My leetcode solution in java
 | [2747-count-zero-request-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -32,6 +33,7 @@ My leetcode solution in java
 | [2243-calculate-digit-sum-of-a-string](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Divide and Conquer
@@ -45,11 +47,13 @@ My leetcode solution in java
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -110,6 +114,7 @@ My leetcode solution in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2747-count-zero-request-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
