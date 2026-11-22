@@ -30,6 +30,7 @@ My leetcode solution in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/0844-backspace-string-compare/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
