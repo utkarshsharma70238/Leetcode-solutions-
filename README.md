@@ -28,6 +28,7 @@ My leetcode solution in java
 | [3693-climbing-stairs-ii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ My leetcode solution in java
 | [2747-count-zero-request-servers](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ My leetcode solution in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +210,16 @@ My leetcode solution in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/utkarshsharma70238/Leetcode-solutions-/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
